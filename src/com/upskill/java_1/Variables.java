@@ -4,7 +4,7 @@ public class Variables {
 
 //	Variables in Java
 
-	public String country = "USA";			//Instance OR global variable - Variables declared in Class level, outside method
+	public String country = "BD";			//Instance OR global variable - Variables declared in Class level, outside method
 	public static String region = "America"; //Static variable - variables belong to class and don't required creating object
 	
 	public void ny(String county){			//Method parameter - variables used as method parameter
