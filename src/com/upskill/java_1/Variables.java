@@ -9,7 +9,7 @@ public class Variables {
 	
 	public void ny(String county){			//Method parameter - variables used as method parameter
 		
-		String city = "NYC";			//Local variable - variables declared in methods
+		String city = "Dhaka";			//Local variable - variables declared in methods
 		
 		System.out.println("--- NY Method ---");
 		System.out.println(country);
